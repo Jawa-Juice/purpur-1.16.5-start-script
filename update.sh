@@ -1,2 +1,2 @@
-rm -rf purpurclip.jar
-wget https://ci.pl3x.net/job/Purpur/lastSuccessfulBuild/artifact/final/purpurclip.jar
+rm -rf launcher-airplanepurpur.jar
+wget https://ci.tivy.ca/job/Airplane-Purpur-1.16/lastSuccessfulBuild/artifact/launcher-airplanepurpur.jar
