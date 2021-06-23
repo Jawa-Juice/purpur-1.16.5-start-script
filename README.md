@@ -1,5 +1,5 @@
-# Purpur 1.16.5 Screen Start Script
-Minecraft Purpur 1.16.5 Start Script w/ automatic updating, automatic restart, Aikar's flags, appropriate flags for Flare, restart/stop handling, and automatic screen naming (names the screen session to the name of the script directory).
+# AirplanePurpur 1.16.5 Screen Start Script
+Minecraft AirplanePurpur 1.16.5 Start Script w/ automatic updating, automatic restart, Aikar's flags, appropriate flags for Flare, restart/stop handling, and automatic screen naming (names the screen session to the name of the script directory).
 
 
 ### Dependencies: java, screen
